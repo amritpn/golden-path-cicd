@@ -1,6 +1,6 @@
 # 🛤️ Golden Path CI/CD Platform
 
-A fully managed CI/CD service providing secure-by-default, reusable, and governed delivery workflows for all engineering teams. No repo-level configuration required — all OIDC, roles, policies, and security controls are centrally managed by the Platform Team.
+Here is an eg of a fully managed CI/CD service providing secure-by-default, reusable, and governed delivery workflows for all engineering teams. No repo-level configuration required — all OIDC, roles, policies, and security controls are centrally managed by the Platform Team.
 
 ---
 
